@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpackiyaraj/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelpackiyaraj/webpack/issues"
+  },
+  "homepage": "https://github.com/michaelpackiyaraj/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.20.1",
+    "webpack-cli": "^3.1.1"
+  }
+}
